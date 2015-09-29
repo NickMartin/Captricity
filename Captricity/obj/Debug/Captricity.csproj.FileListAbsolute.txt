@@ -1,0 +1,4 @@
+c:\users\nmartin\documents\visual studio 2010\Projects\Captricity\Captricity\bin\Captricity.dll
+c:\users\nmartin\documents\visual studio 2010\Projects\Captricity\Captricity\bin\Captricity.pdb
+c:\users\nmartin\documents\visual studio 2010\Projects\Captricity\Captricity\obj\Debug\Captricity.dll
+c:\users\nmartin\documents\visual studio 2010\Projects\Captricity\Captricity\obj\Debug\Captricity.pdb
