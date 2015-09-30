@@ -23,7 +23,6 @@ namespace Captricity
             {
                 HttpFileCollection uploadedFiles = Request.Files;
 
-                
                 try
                 {
                     int count = 0;
